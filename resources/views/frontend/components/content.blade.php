@@ -1,0 +1,4 @@
+<main>
+
+    @yield('content')
+</main>

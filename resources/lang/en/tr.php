@@ -1,0 +1,98 @@
+<?php
+
+return [
+    'Dashboard'=>'Dashboard',
+    'English' => 'English',
+    'Arabic' => 'العربيه',
+    'instructors'=>'instructors',
+    'Create New instructor' => 'Create New instructor',
+    'back to list' =>'back to list',
+    'All instructors'=> "All instructors",
+    'courses' => 'courses',
+    'All courses' => 'All courses',
+    'Create New course' => 'Create New course',
+    'students'=> 'students',
+    'All students'=>'All students',
+    'Create New student'=> 'Create New student',
+    'employees'=>'employees',
+    'All employees' => 'All employees',
+    'Create New employee'=> 'Create New employee',
+    'subjects'=>'subjects',
+    'All subjects' => 'All subjects',
+    'Create New subject'=> 'Create New subject',
+    'exams'=>'exams',
+    'All exams' => 'All exams',
+    'Create New exam'=> 'Create New exam',
+    'quizzes'=>'quizzes',
+    'All quizzes' => 'All quizzes',
+    'Create New quiz'=> 'Create New quiz',
+    'Code'=>'Code',
+    'Fname'=> 'Fname',
+    'Lname' => 'Lname',
+    'Email' => 'Email',
+    'Adress' => 'Adress',
+    'Mobile' => 'Mobile',
+    'Birthday'=>'Birthday',
+    'Job'  => 'Job',
+    'Gender' => 'Gender',
+    'Male' => 'Male',
+    'Female' => 'Female',
+    'save'  => 'save',
+    'reset' => 'reset',
+    'View' => 'View',
+    'Edit' => 'Edit',
+    'Delete' => 'Delete',
+    'Action' => 'Action',
+    'Enter employee code'=> 'Enter employee code',
+    'Enter First Name'=> 'Enter First Name',
+    'Enter Last Name'=> 'Enter Last Name',
+    'Enter your Email'=> 'Enter your Email',
+    'Enter your Address'=> 'Enter your Address',
+    'Enter your Mobile'=> 'Enter your Mobile',
+    'Enter your Birthday'=> 'Enter your Birthday',
+    'Enter your Job'=> 'Enter your Job',
+    'Enter your Gender'=> 'Enter your Gender',
+    'employee Added successfully' => 'employee Added successfully',
+    'About us'=>'About us',
+    'Courses'=>'Courses',
+    'Home'=>'Home',
+    'Events'=>'Events',
+    'News'=>'News',
+    'Contact us'=>'Contact us',
+    'website'=>'website',
+    'Add New '=>'Add New ',
+    'image'=>'image',
+    'en_title'=>'en_title',
+    'ar_title'=>'ar_title',
+    'en_description'=>'en_description',
+    'ar_description'=>'ar_description',
+    'view page'=>'view page',
+    'Create New section'=>'Create New section',
+    'Back'=>'Back',
+    'Select  Image'=>'Select  Image',
+    'your image'=>'your image',
+    'Enter English title'=>'Enter English title',
+    'Enter Arabic title'=>'Enter Arabic title',
+    'Enter English Descriptions'=>'Enter English Descriptions',
+    'Enter Arabic Descriptions'=>'Enter Arabic Descriptions',
+    'Update section'=>'Update section',
+    'update'=>'update',
+    'Select another Image'=>'Select another Image',
+    'show section'=>'show section',
+    'Section Details'=>'Section Details',
+    'Show Image'=>'Show Image',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+];

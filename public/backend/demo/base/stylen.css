@@ -1,0 +1,88 @@
+table.dataTable thead th, table.dataTable thead td
+{
+    padding: 25px  !important;
+    border-bottom: 1px solid #0c4873  !important;
+    color: #ffffff !important;
+    background: #0c4873  !important;
+    text-align: center  !important;
+}
+.dataTables_scrollBody thead{
+    display: none;
+}
+.table-bordered th, .table-bordered td{
+    border: 1px solid rgb(247, 245, 245) !important;
+}
+.table_2 select ,  .table_2 input {
+    padding: 6px 15px;
+    border: 1px solid #0c4873;
+    margin: 5px 10px;
+    color: #0c4873;
+    border-radius: 6px;
+    outline: none;
+}
+.table_2 .tables_image{
+    width: 100px;
+    height: 75px;
+}
+/* .table_2 .dropdown-item {
+    display: initial;
+    background: #0c4873;
+    border-radius: 10px;
+    text-align: center;
+    margin-bottom: 2px;
+    width: fit-content;
+    padding: 10px 1.5rem;
+    clear: both;
+    font-weight: 400;
+    color: #ffffff;
+    text-align: inherit;
+} */
+.mb-20{
+    margin-bottom: 20px
+}
+.about_title{
+    color: #0c4873;
+    font-size: 15px !important ;
+    font-weight: 500 !important ;
+}
+.input_active:focus , .input_active:active {
+    border-color: #0c4873;
+}
+.add_btnn{
+    background: #C04848;
+    border-color: #C04848;
+}
+.add_btnn:hover , .add_btnn:focus ,.add_btnn:active,.add_btnn:link{
+    background: #b32727;
+    border-color:#b32727;
+}
+.reset_btnn{
+    background-color: #0c4873;
+    border-color: #0c4873;
+}
+.reset_btnn:hover , .reset_btnn:focus ,.reset_btnn:active,.reset_btnn:link{
+    background-color: #01365d;
+    border-color: #01365d;
+}
+.edit_table_icon{
+    border-color: #c04848 !important;
+    background-color: #c04848 !important;
+}
+.edit_table_icon i{
+    color: #ffffff !important;
+}
+.img_table{
+    border: 1px solid #dee2e6;
+    border-radius: 0.25rem;
+    width: 100px;
+    height: 80px;
+    text-align: center;
+}
+.table_img_td{
+    text-align: center;
+}
+.dataTables_wrapper .dataTables_paginate .paginate_button.current{
+    color: #0c4873 !important;
+    border: 1px solid #0c4873;
+    background: white !important;
+}
